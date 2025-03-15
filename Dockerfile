@@ -6,6 +6,6 @@ COPY . .
 
 RUN npm install -g http-server
 
-EXPOSE 8000
+EXPOSE 8080
 
-CMD ["http-server", "-p", "8000"]
+CMD ["sh", "-c", "http-server -p ${PORT:-8080}"]

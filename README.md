@@ -1,9 +1,11 @@
 # 🌐 Learning Frontend Project  
 
 🚀 A beginner-friendly **frontend project** built with **HTML, CSS, and JavaScript** to practice web development fundamentals. This project includes a **dynamic navbar**, follows a structured folder setup, and is fully responsive.
+
 ---
 
 # 🛠️ Technologies Used
+
 - **HTML5** 🏗️ (Page Structure)
 - **CSS3** 🎨 (Styling & Responsive Design)
 - **JavaScript (ES6+)** ⚡ (Navbar & Interactivity)
